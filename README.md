@@ -12,6 +12,9 @@
        <a href="mailto:rohitsharma80449@gmail.com" target="_blank">
           <img src="https://img.icons8.com/color/344/gmail-new.png" margin-right="20px" width="30px" height="30px"/> 
        </a>
+       <a href= "https://twitter.com/RohitBh96952814" target="_blank">
+          <img src="https://img.icons8.com/stickers/344/twitter.png" margin-right="20px" width="30px" height="30px"/> 
+       </a>
        <a href="https://www.codewars.com/users/rohitbhatt@11" target="_blank">
           <img src="https://docs.codewars.com/logo.svg" margin-right="20px" width="30px" height="30px"/> 
        </a>
