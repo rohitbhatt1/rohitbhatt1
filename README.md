@@ -2,7 +2,7 @@
    <h2 align="center">
       Hi
       <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
-      , I'm Rohit , I'm learning Full Stack Developer
+      , I'm Rohit
    </h2>
 </header>
 
